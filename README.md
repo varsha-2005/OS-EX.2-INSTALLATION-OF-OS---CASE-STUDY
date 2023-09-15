@@ -1,10 +1,10 @@
 # OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
 
-###AIM:
+AIM:
 
 To Install Ubuntu in VMware Player on Windows
 
-###PROCEDURE:
+PROCEDURE:
 
 1. Download the Ubuntu iso (desktop not server) and the free VMware Player.
  
@@ -36,6 +36,6 @@ To Install Ubuntu in VMware Player on Windows
     
 16. Once it is set that up, system is up and running with Ubuntu in VMware Player on the Windows machine.
 
-###RESULT:
+RESULT:
 
 Ubuntu in VMware Player on Windows has been installed successfully
